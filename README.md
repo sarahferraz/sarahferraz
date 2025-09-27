@@ -7,10 +7,10 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating insights since 2024<br>
-📚 I'm currently learning Power BI advanced features and SQL optimization<br>
-🎯 Goals: Become a Data Analyst in the BI field<br>
-🎲 Fun fact: I love analyzing data while enjoying a cup of coffee ☕
+✨ Currently studying to become a Data Analyst<br>
+📚 I'm learning Python, SQL, and advanced Excel<br>
+🎯 Goals: Grow professionally in analytics and data-driven projects<br>
+🎲 Fun fact: I love organizing data and automating processes ☕
 </p>
 
 ---
@@ -22,8 +22,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo" />
 </div>
 
@@ -32,23 +30,8 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahGuttemberg&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahGuttemberg&layout=compact&langs_count=5&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<h2 align="left">Projects Highlights</h2>
-
-<p align="left">
-- <strong>Power BI Dashboard Example</strong> - Visual analytics for business data. <br>
-  ![Power BI](link-da-imagem.png)<br>
-
-- <strong>SQL Analytics Project</strong> - Data analysis and optimization. <br>
-  ![SQL](link-da-imagem.png)<br>
-
-- <strong>Excel Automation Tool</strong> - Automated reports with macros and formulas. <br>
-  ![Excel](link-da-imagem.png)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahferraz&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahferraz&layout=compact&langs_count=5&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -57,6 +40,4 @@
 
 <p align="left">
 📫 <a href="mailto:seuemail@example.com">Email</a> | 
-💼 <a href="https://www.linkedin.com/in/seulink">LinkedIn</a> | 
-🌐 <a href="https://github.com/SarahGuttemberg">GitHub</a>
-</p>
+💼 <a href="https://www
