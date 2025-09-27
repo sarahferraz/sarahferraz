@@ -20,9 +20,14 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/googlecolab/googlecolab-original.svg" height="40" alt="googlecolab logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo" />
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" height="40" alt="excel logo" />
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"/>
+  <img width="12"/>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40" alt="powerbi logo"/>
+  <img width="12"/>
 </div>
 
 ---
@@ -39,5 +44,4 @@
 <h2 align="left">Contact me</h2>
 
 <p align="left">
-📫 <a href="mailto:seuemail@example.com">Email</a> | 
-💼 <a href="https://www
+📫 <a href="mailto: sarah.guttemberg@hotmail.com">Email</a> 
