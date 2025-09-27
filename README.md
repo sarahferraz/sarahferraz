@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 Hi there!</h1>
 
-<p align="left">My name is Sarah Guttemberg and I'm a Technologist in ADS, from Bahia, Brazil.</p>
+<p align="left">My name is Sarah Ferraz and I'm a Technologist in ADS, Brazil.</p>
 
 ---
 
