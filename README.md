@@ -1,4 +1,9 @@
 <h1 align="left">Hey 👋 Hi there!</h1>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA1ZnlweGhrY2d3eXIweW01ZGs3YTR3Y3F5M3dmOXAxa3AzNnlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0UcWwQreelWsR48UtD/giphy.gif"  />
+</div>
+
+###
 
 <p align="left">My name is Sarah Ferraz and I'm a Technologist in ADS, Brazil.</p>
 
@@ -45,3 +50,4 @@
 
 <p align="left">
 📫 <a href="mailto: sarah.guttemberg@hotmail.com">Email</a> 
+
