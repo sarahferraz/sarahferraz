@@ -9,7 +9,7 @@
 
 <p align="center">
 Hi! I'm <b>Sarah Ferraz</b>, a Technologist in ADS from Brazil.<br>
-✨ Aspiring Data Analyst<br>
+✨ Aspiring Data Scientist<br>
 📚 Learning Python, SQL & Advanced Excel<br>
 🎯 Goal: Grow professionally in analytics and data-driven projects<br>
 🌸 Biggest fan of Sailor Moon<br>
