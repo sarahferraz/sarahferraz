@@ -8,7 +8,7 @@
 <h2 align="center">About Me 🌙✨</h2>
 
 <p align="center">
-Hi! I'm <b>Sarah Ferraz</b>, a Technologist in ADS from Brazil.<br>
+Hi! I'm <b>Sarah Ferraz</b>, a Technologist in Systems Analysis and Development from Brazil.<br>
 ✨ Aspiring Data Scientist<br>
 📚 Learning Python, SQL & Advanced Excel<br>
 🎯 Goal: Grow professionally in analytics and data-driven projects<br>
