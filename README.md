@@ -49,8 +49,3 @@ Hi! I'm <b>Sarah Ferraz</b>, a Technologist in ADS from Brazil.<br>
 </p>
 
 ---
-
-<h2 align="center">📫 Contact Me</h2>
-<p align="center">
-  <a href="mailto:sarah.guttemberg@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
